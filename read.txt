@@ -1,0 +1,14 @@
+Sila muat turun file index.html di atas. Pastikan anda meletakkan file ini di dalam folder yang sama dengan semua file gambar berikut supaya ia dapat dipaparkan dengan betul:
+
+logo_moncerol.png
+
+fasilitas_produksi_lanyard.png
+
+lanyard_idcard.png
+
+gelang_event.png
+
+plakat_akrilik.png
+
+nomor_dada_lari.png
+porto1.png
